@@ -9,3 +9,7 @@ Things I learned from this project:
 Logging into PostgreSQL
 Creating Database dumps
 Basic Postgres Terminal Commands like \c, \d, \dt, \l etc
+
+Project description link:
+https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database
+
